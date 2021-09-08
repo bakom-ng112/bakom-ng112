@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bakom-ng112 the reppository for teh BAKOM NG112 Workshop Documentation in 2020 and 2021
+- 👋 Hi, I’m @bakom-ng112 the reppository for the BAKOM NG112 Workshop Documentation in 2020 and 2021
 - 👀 We are intersted in emergency call standardisation and NG112 Networks
 
 <!---
